@@ -20,7 +20,7 @@
 
     <uses-feature android:required="true" android:name="org.cyanogenmod.theme" />
 
-    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Theme Template">
+    <application android:hasCode="false" android:icon="@drawable/nerdhitech" android:label="Nerdroid">
     </application>
 
     <meta-data android:name="org.cyanogenmod.theme.name" android:value="Nerdroid"/>
